@@ -22,7 +22,7 @@ function ProductList() {
   }, []);
 
   return (
-    <div className="iu grid container">
+    <div className="ui grid container">
       {
         products.map((product) => <Product key={product.id} product={product} />)
       }
