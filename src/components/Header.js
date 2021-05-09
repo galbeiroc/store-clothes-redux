@@ -2,7 +2,7 @@ function Header() {
   return (
     <div className="iu fixed menu">
       <div className="ui container center">
-        <h1>Header</h1>
+        <h1>Shop Clothes</h1>
       </div>
     </div>
   );
